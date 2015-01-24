@@ -1,5 +1,5 @@
 # Project: Advanced Forms
-*Estimated Time: 6-12 hrs*
+<!-- *Estimated Time: 6-12 hrs* -->
 
 *Don't forget to use Git to save your projects!*
 
@@ -74,6 +74,8 @@ Once the user has submitted their chosen flight, it's time to take their booking
 * jamie's [solution](https://github.com/Jberczel/Flight_Booker) | [demo](http://flight-booker.herokuapp.com)
 * [Donald's solution](https://github.com/donaldali/odin-flight-booker) | [View on Heroku](http://dna-flight-booker.herokuapp.com/)
 * Solution by [Adrian Badarau](https://github.com/adrianbadarau/flight-booking-app) | [demo](http://flight-booking-app.herokuapp.com/)
+* Solution by [Marina Sergeyeva](https://github.com/imousterian/FlightBooker) | [demo](https://one-way-ticket.herokuapp.com/)
+* Solution by [Kate McFaul](https://github.com/craftykate/odin-project/tree/master/Chapter_04-Advanced_Rails/flight-booker)
 * *Your Solution Here!*
 
 

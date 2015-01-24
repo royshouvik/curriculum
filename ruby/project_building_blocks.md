@@ -1,5 +1,5 @@
 # Projects: Ruby Building Blocks
-*Estimated Time: 3-5 hrs*
+<!-- *Estimated Time: 3-5 hrs* -->
 
 *Don't forget to use Git to save your projects!*
 
@@ -71,9 +71,28 @@ Implement a caesar cipher that takes in a string and the shift factor and then o
 * [Solution from Gabriel Matos de Souza] (https://github.com/gabrielms/exerciciosRoR/blob/master/ceasar_cipher/ceasar_cipher.rb)
 * [Solution from Daraul Harris](https://github.com/thurst306/the_odin_projects/blob/master/caesar_cipher.rb)
 * [Solution from Hawkeye](https://github.com/Hawkeye000/Odin-Building-Blocks/blob/master/caesar.rb)
+* [Solution from Vincent](https://github.com/wingyu/ruby_building_blocks/blob/master/caesar.rb)
+* [Solution from Maggie Baker](https://github.com/maggiedbaker/Odin_Project/blob/master/ruby_building_blocks/caesar_cipher.rb)
+* [Solution from Hyeunjoon Kim](https://github.com/hyeunny/Projects_Ruby_Building_Blocks/blob/master/caesar_cipher.rb)
+* [Solution from Aleksandar Rodić](https://github.com/Rodic/Odin-Ruby-Projects/blob/master/Projects:%20Ruby%20Building%20Blocks/lib/caesar.rb)
+* [Solution from Lara Finnegan](https://github.com/lcf0285/Ruby_Building_Blocks/blob/master/Caesar_Cipher.rb)
+* [Solution from John Quarles](https://github.com/johnwquarles/Ruby-Building-Blocks/blob/master/caesar.rb)
+* [Solution from Jack Nguyen](http://github.com/jnguyen85/projects-ruby-building-blocks/blob/03_substrings/01_caesar_cipher/caesar_cipher.rb)
+* [Solution from Vidul](https://github.com/viparthasarathy/Caesar-Cipher/blob/master/method.rb)
+* [Solution from Tomislav Mikulin](https://github.com/MrKindle85/ruby_building_blocks/blob/master/Caesar_Cipher.rb)
+* [Solution from Hunter Ducharme](https://github.com/hgducharme/OdinProjects/blob/master/RubyProgramming/ruby_building_blocks/caesar_cipher.rb)
+* [Solution from Artur Janik](https://github.com/ArturJanik/bbproject1/blob/master/p1-caesar.rb)
+* [Solution from hiendinhngoc](https://github.com/hiendinhngoc/TheOdinProject/blob/master/ceasar_cipher.rb)
+* [Solution from Tyler Travers](https://github.com/ttravers17/the_odin_project/blob/master/ruby_building_blocks/project1/caesar_cipher.rb)
+* [Solution from Kate McFaul](https://github.com/craftykate/odin-project/blob/master/Chapter_03-Advanced_Ruby/ruby_building_blocks/ceasar.rb)
+* [Solution from Chris Dziewa](https://github.com/chrisdziewa/building-blocks/blob/master/cipher/cipher.rb)
+* [Solution from Dominik Stodolny](https://github.com/dstodolny/ruby_building_blocks/blob/master/lib/caesar_cipher.rb)
+* [Solution from Sami Bashraheel](https://github.com/sami/ruby-building-blocks/blob/master/caesar_cipher.rb)
 * *Insert Your Solution Above This Line*
 
+
 ## Project 2: Stock Picker
+
 
 ### Your Task
 
@@ -118,6 +137,23 @@ Implement a method `#stock_picker` that takes in an array of stock prices, one f
 * [Solution from Dave Charnuska](https://github.com/charleszardo/Odin_Project/blob/master/ruby_building_blocks/stock_picker.rb)
 * [Solution from Daraul Harris](https://github.com/thurst306/the_odin_projects/blob/master/stock_picker.rb)
 * [Solution from Hawkeye](https://github.com/Hawkeye000/Odin-Building-Blocks/blob/master/stock_picker.rb)
+* [Solution from Vincent](https://github.com/wingyu/ruby_building_blocks/blob/master/stock.rb)
+* [Solution from Maggie Baker](https://github.com/maggiedbaker/Odin_Project/blob/master/ruby_building_blocks/stock_picker.rb)
+* [Solution from Hyeunjoon Kim] (https://github.com/hyeunny/Projects_Ruby_Building_Blocks/blob/master/stock_picker.rb)
+* [Solution from Aleksandar Rodić](https://github.com/Rodic/Odin-Ruby-Projects/blob/master/Projects:%20Ruby%20Building%20Blocks/lib/stock.rb)
+* [Solution from Lara Finnegan](https://github.com/lcf0285/Ruby_Building_Blocks/blob/master/stock_picker.rb)
+* [Solution from John Quarles](https://github.com/johnwquarles/Ruby-Building-Blocks/blob/master/stockpicker.rb)
+* [Solution from Jack Nguyen](http://github.com/jnguyen85/projects-ruby-building-blocks/blob/03_substrings/02_stock_picker/stock_picker.rb)
+* [Solution from Vidul](https://github.com/viparthasarathy/stock_picker/blob/master/method.rb)
+* [Solution from Tomislav Mikulin](https://github.com/MrKindle85/ruby_building_blocks/blob/master/stock_picker.rb)
+* [Solution from Hunter Ducharme](https://github.com/hgducharme/OdinProjects/blob/master/RubyProgramming/ruby_building_blocks/stock_picker.rb)
+* [Solution from Artur Janik](https://github.com/ArturJanik/bbproject2/blob/master/p2-stockpicker.rb)
+* [Solution from hiendinhngoc](https://github.com/hiendinhngoc/TheOdinProject/blob/master/stock_picker.rb)
+* [Solution from Tyler Travers](https://github.com/ttravers17/the_odin_project/blob/master/ruby_building_blocks/project2/stock_picker.rb)
+* [Solution from Kate McFaul](https://github.com/craftykate/odin-project/blob/master/Chapter_03-Advanced_Ruby/ruby_building_blocks/stocks.rb)
+* [Solution from Chris Dziewa](https://github.com/chrisdziewa/building-blocks/blob/master/stock_picker/stocks.rb)
+* [Solution from Dominik Stodolny](https://github.com/dstodolny/ruby_building_blocks/blob/master/lib/stock_picker.rb)
+* [Solution from Sami Bashraheel](https://github.com/sami/ruby-building-blocks/blob/master/stock_picker.rb)
 * *Insert Your Solution Above This Line*
 
 ## Project 3: Substrings
@@ -140,7 +176,7 @@ Next, make sure your method can handle multiple words:
     > substrings("Howdy partner, sit down! How's it going?", dictionary)
     => {"down"=>1, "how"=>2, "howdy"=>1,"go"=>1, "going"=>1, "it"=>2, "i"=> 3, "own"=>1,"part"=>1,"partner"=>1,"sit"=>1}
 ```
-    
+
 
 **Quick Tips:**
 
@@ -176,4 +212,21 @@ Next, make sure your method can handle multiple words:
 * [Solution from James MacIvor](https://github.com/RobotOptimist/substrings)
 * [Solution from Dave Charnuska](https://github.com/charleszardo/Odin_Project/blob/master/ruby_building_blocks/substrings.rb)
 * [Solution from Hawkeye](https://github.com/Hawkeye000/Odin-Building-Blocks/blob/master/substrings.rb)
+* [Solution from Vincent](https://github.com/wingyu/ruby_building_blocks/blob/master/substrings.rb)
+* [Solution from Maggie Baker](https://github.com/maggiedbaker/Odin_Project/blob/master/ruby_building_blocks/substrings.rb)
+* [Solution from Aleksandar Rodić](https://github.com/Rodic/Odin-Ruby-Projects/blob/master/Projects:%20Ruby%20Building%20Blocks/lib/substrings.rb)
+* [Solution from Lara Finnegan](https://github.com/lcf0285/Ruby_Building_Blocks/blob/master/substrings.rb)
+* [Solution from John Quarles](https://github.com/johnwquarles/Ruby-Building-Blocks/blob/master/substring.rb)
+* [Solution from Jack Nguyen](http://github.com/jnguyen85/projects-ruby-building-blocks/blob/master/03_substrings/substrings.rb)
+* [Solution from Vidul](https://github.com/viparthasarathy/substrings/blob/master/method.rb)
+* [Solution from Tomislav Mikulin](https://github.com/MrKindle85/ruby_building_blocks/blob/master/substrings.rb)
+* [Solution from Hunter Ducharme](https://github.com/hgducharme/OdinProjects/blob/master/RubyProgramming/ruby_building_blocks/substrings.rb)
+* [Solution from Artur Janik](https://github.com/ArturJanik/bbproject3/blob/master/p3-substrings.rb)
+* [Solution from hiendinhngoc](https://github.com/hiendinhngoc/TheOdinProject/blob/master/substrings.rb)
+* [Solution from Tyler Travers](https://github.com/ttravers17/the_odin_project/blob/master/ruby_building_blocks/project3/substrings.rb)
+* [Solution from Angela Woods](https://github.com/insomniacode/building-blocks/blob/master/bubble_sort.rb)
+* [Solution from Kate McFaul](https://github.com/craftykate/odin-project/blob/master/Chapter_03-Advanced_Ruby/ruby_building_blocks/substrings.rb)
+* [Solution from Chris Dziewa](https://github.com/chrisdziewa/building-blocks/blob/master/substrings/substrings.rb)
+* [Solution form Dominik Stodolny](https://github.com/dstodolny/ruby_building_blocks/blob/master/lib/substrings.rb)
+* [Solution from Sami Bashraheel](https://github.com/sami/ruby-building-blocks/blob/master/substrings.rb)
 * *Insert Your Solution Above This Line*

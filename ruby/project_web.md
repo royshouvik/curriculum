@@ -1,5 +1,5 @@
 # Projects: Ruby on the Web
-*Estimated Time: 6-10 hours*
+<!-- *Estimated Time: 6-10 hours* -->
 
 *Don't forget to use Git to save your projects!*
 
@@ -33,6 +33,12 @@ Note that, for this project, you may want to create a throwaway Twitter account 
 * [Solution from Tommy Noe](https://github.com/thomasjnoe/jumpstartlab-micro-blogger)
 * [Solution from Michael Alexander](https://github.com/betweenparentheses/jumpstart_labs_twitterbot/blob/master/micro_blogger.rb)
 * [Solution from Sahil Agarwal](https://github.com/sahilda/the_odin_project/tree/master/ruby-on-the-web/twitter_spam_bot)
+* [Solution from Aleksandar Rodić](https://github.com/Rodic/Odin-Ruby-Projects/tree/master/Projects:%20Ruby%20on%20the%20Web/Project%201:%20Twitter%20Spambot)
+* [Solution from Vidul](https://github.com/viparthasarathy/twitter_spambot)
+* [Solution from John Quarles](https://github.com/johnwquarles/Mini-Twitter-Client)
+* [Solution from Artur Janik](https://github.com/ArturJanik/rotwproject1)
+* [Solution from Kate McFaul](https://github.com/craftykate/odin-project/tree/master/Chapter_03-Advanced_Ruby/ruby_on_the_web/twitter_spambot)
+* *...put your solution above this line!*
 
 ## Project 2: A Real Web Server and Browser (from the command line)
 
@@ -175,6 +181,10 @@ Now think about what you did.  Let it sink in, including some of the steps that 
 * [Michael Alexander's solution](https://github.com/betweenparentheses/simple_client_server)(using while loops and gets instead of read_nonblock)
 * [Sahil Agarwal's solution](https://github.com/sahilda/the_odin_project/tree/master/ruby-on-the-web)
 * [James MacIvor's solution](https://github.com/RobotOptimist/simple_server) with thanks to @Jberczel because I shamelessly stole syntax.
+* [Solution from Aleksandar Rodić](https://github.com/Rodic/Odin-Ruby-Projects/tree/master/Projects:%20Ruby%20on%20the%20Web/Project%202:%20A%20Real%20Web%20Server%20and%20Browser)
+* [Solution from Vidul Parthasarathy](https://github.com/viparthasarathy/web_server)
+* [Solution from John Quarles](https://github.com/johnwquarles/simple-server-and-client)(using while loops, #gets and #read)
+* [Solution from Artur Janik](https://github.com/ArturJanik/rotwproject2)
 * *...put your solution above this line!*
 
 

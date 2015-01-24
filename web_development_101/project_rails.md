@@ -1,5 +1,5 @@
 # Project: Rails
-*Estimated Time: 6-8 hrs*
+<!-- *Estimated Time: 6-8 hrs* -->
 
 In this project, you'll get the opportunity to actually build a real rails application.  It's not a trivially simple one either -- it's got a lot of wrinkles and things that you're not going to understand.
 
@@ -39,11 +39,23 @@ Because you'll be doing so much stuff that we haven't taught you yet, this is a 
 * Ruben Mendez's Solution [Jumpstart Labs Blogger App I0-I5](https://github.com/ruben-socal/blogger)
 * Michael Alexander's Solution [Jumpstart Labs Blogger App I0-I5](https://github.com/betweenparentheses/jumpstart_labs_blogger) | [View online](http://quiet-dawn-1285.herokuapp.com/)
 * Marina Sergeyeva's Solution [Jumpstart Labs Blogger App I0-I5](https://github.com/imousterian/OdinProject/tree/master/Project1_4_RubyOnRails)
-* * Jonathan Faulk's Solution [Jumpstart Labs Blogger App I0 -I4](https://github.com/faulk49/jumpstart) | [View online](http://morning-gorge-3013.herokuapp.com/)
+* Jonathan Faulk's Solution [Jumpstart Labs Blogger App I0 -I4](https://github.com/faulk49/jumpstart) | [View online](http://morning-gorge-3013.herokuapp.com/)
 * Erithair's Solution [Jumpstart Labs Blogger App I0 -I5](https://github.com/N19270/blogger) | [View online](http://erithair-blog.herokuapp.com/)
-* James MacIvor's Solution [Jumpstart Labs Blogger App I0 - I5](https://github.com/RobotOptimist/blogger) | [View online] (http://warm-scrubland-4226.herokuapp.com/articles)
-* Vincent's Solution [Jumpstart Labs Blogger App I0 - I5](https://github.com/wingyu/blogger) | [View online] (http://ancient-plains-8753.herokuapp.com/)
-
+* James MacIvor's Solution [Jumpstart Labs Blogger App I0 - I5](https://github.com/RobotOptimist/blogger) | [View online](http://warm-scrubland-4226.herokuapp.com/articles)
+* Vincent's Solution [Jumpstart Labs Blogger App I0 - I5](https://github.com/wingyu/blogger) | [View online](http://ancient-plains-8753.herokuapp.com/)
+* Hunter Ducharme's Solution [Jumpstart Labs Blogger App I0-I4](https://github.com/hgducharme/OdinProjects/tree/master/webDev101/RailsBlogger) | [View online](https://jumpstartblogger.herokuapp.com/)
+* Antonio Augusto's Solution [Jumpstart Labs Blogger App I0-I6](https://github.com/antoniosb/blogger) | [View it online](https://heroblogger.herokuapp.com/)
+* insomniacode's Solution  [Jumpstart Labs Blogger App I0-I6](https://github.com/insomniacode/blogger-app) | [View it online](https://ancient-depths-2915.herokuapp.com)
+* John Quarles' Solution [Jumpstart Labs Blogger App I0-I5](https://github.com/johnwquarles/Odin-rails-project) | [View online](https://aqueous-retreat-3890.herokuapp.com/)
+* Vidul's Solution [Jumpstart Labs Blogger App I0-I4](https://github.com/viparthasarathy/rails-project) | [View it online](https://protected-depths-2514.herokuapp.com/)
+* Dorian Iacobescu's Solution [Jumpstart Labs Blogger App](https://github.com/iacobson/Odin5-Rails-Blogger) | [View online](http://odin-blog.herokuapp.com/)
+* Tyler Travers' Solution [Jumpstart Labs Blogger App I0-I4](https://github.com/ttravers17/the_odin_project/tree/master/blogger) | [View online](https://agile-woodland-3720.herokuapp.com/)
+* Chris Dziewa's Solution [Jumpstart Labs Blogger App I0-I5](https://github.com/chrisdziewa/blogger)
+* Kate McFaul's Solution [Jumpstart Labs Blogger App](https://github.com/craftykate/odin-project/tree/master/Chapter_02-Web_Development_101/jumpstart_rails_blog) | [View online](https://sample-rails-blog.herokuapp.com)
+* Andy Linteau's Solution [Jumpstart Labs Blogger App](https://github.com/linteau/blogger) | [View online](https://bloggertut.herokuapp.com/)
+* Sami Bashraheel's Solution [Jumpstart Labs Blogger App I0-I4](https://github.com/sami/blogger)
+* Dominik Stodolny's Solution [Jumpstart Labs Blogger App I0-I5](https://github.com/dstodolny/blogger) | [View online](https://calm-coast-8819.herokuapp.com/)
+* Kevin Weir's Solution [Jumpstart Labs Blogger App I0-I5](https://github.com/IDCrisis2/the_odin_project/tree/master/Rails/blogger) | [ Creating a Sample App Using Scaffolding](https://github.com/IDCrisis2/the_odin_project/tree/master/Rails/toy_app)
 * *Your solution above here...*
 
 

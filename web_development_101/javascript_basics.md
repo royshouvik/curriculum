@@ -1,5 +1,5 @@
 # Javascript 101
-*Estimated Time: 6-8 hrs*
+<!-- *Estimated Time: 6-8 hrs* -->
 
 As we [saw before](http://skillcrush.com/2012/04/05/javascript/), Javascript is the in-browser code that gets run to make things on your webpage moveable and clickable, including the dropdown menus and hover effects you use every day.  It's time to dive in a bit more and start getting your hands dirty with some code.
 
@@ -67,7 +67,39 @@ This lesson will tend to focus on understanding the programming side of Javascri
 * [Roman Davis's Euler Solutions](https://github.com/RomanADavis/euler-solutions)
 * [Julie De Lorenzo's Euler Solutions](https://github.com/delorenzo/euler-solutions)
 * [Khaled Maher's Euler Solutions](https://github.com/maxios/project-euler) or [view it in the browser here](http://htmlpreview.github.io/?https://github.com/maxios/project-euler/blob/master/index.html).
+* [Dorian Iacobescu's Euler Solutions](https://github.com/iacobson/Odin2-Euler-Problems-1-2-3) or [view it in the browser here](http://htmlpreview.github.io/?https://github.com/iacobson/Odin2-Euler-Problems-1-2-3/blob/master/index.html)
+* [John Quarles' Euler Solutions](https://github.com/johnwquarles/Project-2.71828)
+* [Eric Rohver's Euler Solutions](https://github.com/Groove11/Project-Euler)
+* [Rafael Ruiz Moreno's Euler Solutions](https://github.com/rruimor/project-euler-js)
+* [M.Musab Sohail's Euler Solutions](https://github.com/musabsohail/the-odin-project/tree/master/web%20101/JS)
+* [Antonio Augusto's Euler Solutions](https://github.com/antoniosb/project_euler) or [view it in the browser here](http://htmlpreview.github.io/?https://raw.githubusercontent.com/antoniosb/project_euler/master/project_euler.html)
+* [Lara Finnegan's Euler Solutions](https://github.com/lcf0285/project-euler) or [view it in the browser here](http://htmlpreview.github.io/?https://github.com/lcf0285/project-euler/blob/master/project-euler.html)
+* [Vidul's Euler Solutions](https://github.com/viparthasarathy/project-euler) 
+* [Rebecca Appleyard's Euler Solutions](https://github.com/katylouise/euler_problems)
+* [Panagiotis Karatakis' Euler Solutions](https://github.com/BlackSpirit96/project-euler)
+* [Julian De Ocampo's Euler Solutions](https://github.com/JCDJulian/project-euler) 
+* [Chris Dziewa's Euler Solutions](https://github.com/chrisdziewa/project-euler-js)
+* [Akshay Kumar Bhushan's Solutions](https://github.com/akshaykb/Project-Euler)
+* [Richard Stewart's Euler Solutions](https://github.com/rickstewart/Project_Euler) or [view it in the browser here](http://htmlpreview.github.io/?https://github.com/rickstewart/Project_Euler/blob/master/index.html).
+* [Eleanor Weigert's Euler Solutions](https://github.com/mixophrygian/ProjectEuler)
+* [Alice Rhomieux's Solutions](https://github.com/arhx/euler-project)
+* [Jitendra Jogeshwar's solution] (https://github.com/jogjitu/google-homepage/blob/master/javascript_practise.js)
+* [Andrea Kulbaba's Euler Solutions] (https://github.com/akulbaba/euler-solutions) or [view it in the browser here](http://rawgit.com/akulbaba/euler-solutions/master/index.html)
+* [Asish Prabhakar's Solutions] (https://github.com/akottal/euler-solutions)
+* [Sami Bashraheel's Solutions] (https://github.com/sami/project-euler)
+* [Tyler Traver's Solutions](https://github.com/ttravers17/the_odin_project/tree/master/mini_projects/project_euler)
+* [Ricardo Villegas' Solutions](https://github.com/claricardo/project-euler-solutions)
+* [Dominik Stodolny's Solutions] (https://github.com/dstodolny/project_euler)
+* [Jeremy Faith's Solutions](https://github.com/JeremyFaith/odin-projects/tree/master/project_euler) or [view it in the browser here](https://rawgit.com/JeremyFaith/odin-projects/master/project_euler/ProjectEuler.html)
+* [Kate McFaul's Solutions](https://github.com/craftykate/odin-project/tree/master/Chapter_02-Web_Development_101/euler_in_javascript)
+* [Kevin Weir's Solutions](https://github.com/IDCrisis2/the_odin_project/tree/master/project_euler)
+* [Dan McCallum's Solutions](https://github.com/mccada/odin-project/tree/master/odin.js.project_euler)
+* [Leonard Labita's Solutions] (https://github.com/lendoza/Project-Euler) or [view it in the browser here] (http://leonardlabita.com/euler.html)
+* [Matus Karahuta's solution](https://github.com/matt-ice/TheOdinProjectFiles/blob/master/problem3.js)
+* [Patrick Sullivan's solution](https://github.com/patsul12/odin-project-euler)
+* [Tommy Rodriguez's solution](https://github.com/trodrigu/odinproject/tree/master/proj_euler)
 * *Put your solution above this line!*
+
 
 ## Additional Resources
 

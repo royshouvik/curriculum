@@ -1,5 +1,5 @@
 # Project: Ruby
-*Estimated Time: 4-6 hrs*
+<!-- *Estimated Time: 4-6 hrs* -->
 
 You've had plenty of opportunity to read Ruby and learn Ruby and now it's time to build Ruby.  You learned about RSpec in the previous section and now we'll actually get to do some Test-First Ruby! That means you'll be downloading a bunch of test files and your job will be to make them pass by writing code.  It's a great way to start writing some real Ruby scripts and learn some testing at the same time.
 
@@ -7,7 +7,7 @@ This exercise will involve a lot of figuring things out.  There aren't very deta
 
 
 1. Follow the instructions atop the [Google Homepage project](/web-development-101/html-css) to set up a Github repository for this project (of course you'll need to change the title).
-1. Go to [testfirst.org's Learn Ruby section](http://testfirst.org/learn_ruby) and follow the installation instructions.  Basically, you'll be either cloning their Github repository or downloading a zipped file containing all the test files (there are 15).  By opening the main `index.html` file in a browser, you'll have instructions waiting for you that describe what's going on, how to run the tests, and where to put your code so the tests can see it.  The exercises start easy but some of them can be pretty challenging, so good luck!
+1. Go to [testfirst.org's Learn Ruby section](http://testfirst.org/learn_ruby) ([Backup copy here](https://web.archive.org/web/20140328135623/http://testfirst.org/learn_ruby)) and follow the installation instructions.  Basically, you'll be either cloning their Github repository or downloading a zipped file containing all the test files (there are 15).  By opening the main `index.html` file in a browser, you'll have instructions waiting for you which describe what's going on, how to run the tests, and where to put your code so the tests can see it.  The exercises start easy but some of them can be pretty challenging, so good luck! **Update!** Testfirst.org appears to be down but you can download the problem sets from [this Github repository](https://github.com/alexch/learn_ruby) by running `git clone git://github.com/alexch/learn_ruby.git` if you have Git (we're still looking for a .zip file link alternative).  Open the `index.html` file in your local browser once you've downloaded it to receive instructions.
 2. If you absolutely must use an in-browser environment (it would be better for you to do this on your own machine), one is available specifically for these exercises at [http://testfirst.org/live](http://testfirst.org/live). Note for Windows users: As of September 2014, the current version of Rspec is broken in Windows. If this is your first time using rspec (invoked with a different program here that comes with the gem, called Rake), when installing the gem, instead of "gem install rspec", type "gem install rspec -v 2.14.1" into terminal instead.
 3. Do the following exercises.  You'll know you're done when all the tests pass!
     1. `00_hello`
@@ -16,7 +16,7 @@ This exercise will involve a lot of figuring things out.  There aren't very deta
     4. `03_simon_says`
     5. `04_pig_latin`
     6. `08_book_titles`
-    6. `09_timer`
+    7. `09_timer`
 5. Push your project to Github
 
 ## Student Solutions
@@ -48,7 +48,23 @@ This exercise will involve a lot of figuring things out.  There aren't very deta
 * Peter Hurford's [Test-First Ruby Solutions](https://github.com/peterhurford/testfirst)
 * James MacIvor's [Test-First Ruby Solutions](https://github.com/RobotOptimist/learn_ruby)
 * Hunter Ducharme's [Test-First Ruby Solutions](https://github.com/hgducharme/odinProjects/tree/master/webDev101/Ruby)
+* Julie's [Test-First Ruby Solutions](https://github.com/delorenzo/test-first-ruby)
+* Dorian Iacobescu's [Test-First Ruby Solutions](https://github.com/iacobson/Odin4-Ruby-TestFirst-Assignment)
+* John Quarles' [Test-First Ruby Solutions](https://github.com/johnwquarles/test-first-Ruby)
+* Antonio Augusto's [Test-First-Ruby Solutions](https://github.com/antoniosb/test_first_ruby)
+* Jack Nguyen's [Test-First Ruby Solutions](https://github.com/jnguyen85/test-first_ruby_solutions)
+* Scott Yu's [Test-First Ruby Solutions](https://github.com/scootcho/the_odin_project/tree/master/ruby/learn_ruby)
+* Chris Dziewa's [Test-First Ruby Solutions](https://github.com/chrisdziewa/test-ruby)
+* Asish Prabhakar's [Test-First Ruby Solutions](https://github.com/akottal/ruby101-project)
+* Sami Bashraheel's [Test-First Ruby Solutions](https://github.com/sami/test_first_ruby)
+* Drew Price's [Test-First Ruby Solutions](https://github.com/drewprice/study/tree/master/odin-project/projects/learn_ruby/001_solutions)
+* Dominik Stodolny's [Test-First Ruby Solutions](https://github.com/dstodolny/learn_ruby)
+* Kate McFaul's [Test-First Ruby Solutions](https://github.com/craftykate/odin-project/tree/master/Chapter_02-Web_Development_101/test_first_ruby)
+* Eleanor Weigert's [Test-First Ruby Solutions](https://github.com/mixophrygian/Test-First-Ruby)
+* Chasmani's [Test-First Ruby Solutions](https://github.com/chasmani/Test_First_Ruby_Exercises)
+* Patrick Sullivan's [Test-First Ruby Solutions](https://github.com/patsul12/odin-rspec)
 * *Your solution here...*
+
 
 ## Additional Resources
 

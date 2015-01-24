@@ -1,5 +1,5 @@
 # Project: Getting Your Feet Wet With Rails
-*Estimated Time: 3-4 hrs*
+<!-- *Estimated Time: 3-4 hrs* -->
 
 *Don't forget to use Git to save your projects!*
 
@@ -28,7 +28,7 @@ In this chapter, you'll build a simple scaffolded app on Rails.  It won't be as 
 
 ### Your Task
 
-1. Read and follow along with [Chapter 2 of The Rails Tutorial](http://www.railstutorial.org/book/demo_app#cha-a_demo_app) by Michael Hartl, where you will create a basic Ruby on Rails application.
+1. Read and follow along with [Chapters 1 and 2 of The Rails Tutorial](https://www.railstutorial.org/book/beginning#cha-beginning) by Michael Hartl, where you will create two basic Ruby on Rails applications. Michael takes steps to standardize the development process by partnering with [Cloud 9](https://c9.io). Michael also favors [bitbucket](https://bitbucket.org/) over github. If you choose to use bitbucket keep in mind that your solution will not be viewable unless you make the repository public. 
 
 ### Student Solutions
 
@@ -40,6 +40,12 @@ In this chapter, you'll build a simple scaffolded app on Rails.  It won't be as 
 * [Solution from Angel Vargas](https://github.com/arioth/demo_app)
 * [Solution from Donald](https://github.com/donaldali/demo_app)
 * [Solution from TomTom](https://github.com/tim5046/projectOdin/tree/master/Rails/IntroductionToRails/demo_app)
+* [Solution from charnushka] (https://bitbucket.org/charleszardo/demo_app)
+* [Solution from Tommy Noe](https://github.com/thomasjnoe/demo_rails_app)
+* [Solution from James MacIvor](https://bitbucket.org/RobotOptimist/toy_app) [Or view it on the web!](http://shielded-river-4128.herokuapp.com/)
+* [Solution from Vidul](https://github.com/viparthasarathy/toy-app)
+* [Solution from Kate McFaul](https://github.com/craftykate/odin-project/tree/master/Chapter_04-Advanced_Rails/sample_rails_app)
+* [Solution from larrongolden](https://github.com/larrongolden/toy-app)
 
 ## Additional Resources
 

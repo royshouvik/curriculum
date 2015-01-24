@@ -1,5 +1,5 @@
 # Projects: Building and Using APIs
-*Estimated Time: 4-8 hrs*
+<!-- *Estimated Time: 4-8 hrs* -->
 
 *Don't forget to use Git to save your projects!*
 
@@ -93,6 +93,8 @@ This project may seem simple, but now you've got a website that is both a normal
 * jamie's [solution](https://github.com/Jberczel/odin-projects/tree/master/odin-kittens)
 * [Donald's solution](https://github.com/donaldali/odin-rails/tree/master/odin-kittens)
 * Solution by [Adrian Badarau](https://github.com/adrianbadarau/Kittens-API)
+* Solution by [Marina Sergeyeva](https://github.com/imousterian/OdinProject/tree/master/Project3_Kittens/kittens)
+* Solution by [Kate McFaul](https://github.com/craftykate/odin-project/tree/master/Chapter_04-Advanced_Rails/kittens-api)
 * *Your solution ABOVE this line*
 
 
